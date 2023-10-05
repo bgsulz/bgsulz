@@ -3,5 +3,5 @@
 I make games and music. Here on my GitHub, you'll mostly find Unity tools and resources.
 
 #### More info?
-- Selected works at [bgsmusic.com.](bgsmusic.com)
+- Selected works at [bgsulz.com.](bgsulz.com)
 - Let's work together: bsulzinsky@gmail.com
